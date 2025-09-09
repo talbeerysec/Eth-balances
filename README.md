@@ -1,6 +1,8 @@
 # Ethereum Balance Checker
 
-A comprehensive bash script to check ETH balances and transaction counts for multiple Ethereum addresses using the Etherscan API.
+![Console Output](console%20output.png)
+
+A bash script to check ETH balances and transaction counts for multiple Ethereum addresses using the Etherscan API.
 It is pre-configured with the NPM supply chain exploit hard coded Ethereum addresses, see [exploit gist](https://gist.github.com/tintinweb/e518182a6ec521131a9e7386fe130e81#file-npm-vulnerability-deobfusicated-js-L183-L242)
 
 ## Features
