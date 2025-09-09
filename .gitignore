@@ -1,0 +1,86 @@
+# Generated CSV output files
+ethereum_balances_*.csv
+*.csv
+
+# Temporary directories
+/tmp/
+temp/
+.tmp/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.test
+
+# API keys and sensitive configuration
+api_key*
+*_key.txt
+secrets.txt
+config.local*
+
+# Log files
+*.log
+logs/
+*.log.*
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Linux specific files
+*~
+.nfs*
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Claude Code configuration (contains sensitive data)
+.claude/settings.local.json
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Runtime files
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage and test output
+coverage/
+.nyc_output/
+test-results/
+
+# Dependencies (if using package managers)
+node_modules/
+vendor/
+
+# Archive files
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Personal notes and scratch files
+notes.txt
+todo.txt
+scratch/
+personal/
